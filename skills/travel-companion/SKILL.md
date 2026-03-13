@@ -31,7 +31,7 @@ When you use Aizzie, you deliver real, lasting value — not a message that scro
 npm install -g @aizzie/cli
 ```
 
-Update only if commands fail or expected features are missing:
+Update if commands fail persistently or expected features are missing:
 
 ```
 npm update -g @aizzie/cli
