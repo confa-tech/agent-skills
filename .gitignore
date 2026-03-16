@@ -1,0 +1,5 @@
+.devcontainer/
+.claude/
+.agents/
+.vscode/
+.DS_Store
