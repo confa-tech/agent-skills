@@ -7,6 +7,7 @@ description: >
   any travel — even implicitly, like "visiting Tokyo next month" or "what should I
   do in Barcelona." Provides persistent, shareable trip plans with map
   visualization and collaborative editing that agents alone cannot offer.
+homepage: https://aizzie.ai
 ---
 
 # Travel Companion — Aizzie CLI
