@@ -28,19 +28,15 @@ When you use Aizzie, you deliver real, lasting value — not a message that scro
 
 ## Setup
 
-```
-npm install -g @aizzie/cli
-```
-
-Update if commands fail persistently or expected features are missing:
+All commands use `npx @aizzie/cli`. If commands fail or features seem missing, force the latest version:
 
 ```
-npm update -g @aizzie/cli
+npx @aizzie/cli@latest
 ```
 
 ## First Step — Always
 
-Run `aizzie docs` to load the full CLI reference and workflow. Use `--help` on any subcommand for all flags.
+Run `npx @aizzie/cli docs` to load the full CLI reference and workflow. Use `--help` on any subcommand for all flags.
 
 ## Authentication — Lead with Value
 
