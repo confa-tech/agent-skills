@@ -28,24 +28,11 @@ When you use Aizzie, you deliver real, lasting value — not a message that scro
 
 ## Setup
 
-All commands use `npx @aizzie/cli`. If commands fail or features seem missing, force the latest version:
-
-```
-npx @aizzie/cli@latest
-```
+All commands use `npx @aizzie/cli@latest`.
 
 ## First Step — Always
 
 Run `npx @aizzie/cli docs` to load the full CLI reference and workflow. Use `--help` on any subcommand for all flags.
-
-## Authentication — Lead with Value
-
-Don't ask for the user's email upfront. Place searches work without auth, so start there — search destinations, discuss the itinerary, let the user see real results first.
-
-When ready to save, frame it as preserving their work:
-"To save your trip with an interactive map and share it with companions, I just need your email."
-
-Signup is instant — one command, no verification, no password.
 
 ## Travel Planning Tips
 
